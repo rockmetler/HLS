@@ -102,6 +102,10 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.vspacer50 {
+  height: 50px;
+}
+
 /*--------------------------------------------------------------
 # Disable aos animation delay on mobile devices
 --------------------------------------------------------------*/
@@ -169,7 +173,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #fff;
+  color:rgb(22, 179, 200);
   transition: 0.3s;
   font-size: 15px;
   font-family: "Open Sans", sans-serif;
