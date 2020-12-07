@@ -1,0 +1,78 @@
+[29-Nov-2020 17:24:36 America/New_York] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/dtzawqxi/public_html/forms/mailer.php on line 7
+[29-Nov-2020 17:24:36 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/dtzawqxi/public_html/forms/mailer.php on line 7
+[29-Nov-2020 17:26:16 America/New_York] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/dtzawqxi/public_html/forms/mailer.php on line 7
+[29-Nov-2020 17:26:16 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/dtzawqxi/public_html/forms/mailer.php on line 7
+[29-Nov-2020 17:26:28 America/New_York] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/dtzawqxi/public_html/forms/mailer.php on line 7
+[29-Nov-2020 17:26:28 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/dtzawqxi/public_html/forms/mailer.php on line 7
+[29-Nov-2020 17:28:16 America/New_York] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/dtzawqxi/public_html/forms/mailer.php on line 7
+[29-Nov-2020 17:28:16 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/dtzawqxi/public_html/forms/mailer.php on line 7
+[29-Nov-2020 17:28:29 America/New_York] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/dtzawqxi/public_html/forms/mailer.php on line 7
+[29-Nov-2020 17:28:29 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/dtzawqxi/public_html/forms/mailer.php on line 7
+[29-Nov-2020 17:28:30 America/New_York] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home/dtzawqxi/public_html/forms/mailer.php on line 7
+[29-Nov-2020 17:28:30 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/dtzawqxi/public_html/forms/mailer.php on line 7
+[29-Nov-2020 17:33:09 America/New_York] PHP Warning:  require_once(assets/vendor/autoload.php): failed to open stream: No such file or directory in /home/dtzawqxi/public_html/forms/mailer.php on line 7
+[29-Nov-2020 17:33:09 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'assets/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/dtzawqxi/public_html/forms/mailer.php on line 7
+[29-Nov-2020 17:34:40 America/New_York] PHP Warning:  require_once(/home/dtzawqxi/public_html/assets/vendor/autoload.php): failed to open stream: No such file or directory in /home/dtzawqxi/public_html/forms/mailer.php on line 7
+[29-Nov-2020 17:34:40 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/dtzawqxi/public_html/assets/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/dtzawqxi/public_html/forms/mailer.php on line 7
+[29-Nov-2020 17:41:22 America/New_York] PHP Warning:  require_once(/home/dtzawqxi/public_html/assets/vendor/PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/dtzawqxi/public_html/forms/mailer.php on line 7
+[29-Nov-2020 17:41:22 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/dtzawqxi/public_html/assets/vendor/PHPMailerAutoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/dtzawqxi/public_html/forms/mailer.php on line 7
+[29-Nov-2020 17:43:07 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 17:43:07 America/New_York] PHP Notice:  Undefined index: Collection in /home/dtzawqxi/public_html/forms/mailer.php on line 14
+[29-Nov-2020 17:43:07 America/New_York] PHP Notice:  Undefined index: Delivery in /home/dtzawqxi/public_html/forms/mailer.php on line 15
+[29-Nov-2020 17:43:07 America/New_York] PHP Notice:  Undefined index: Dimensions in /home/dtzawqxi/public_html/forms/mailer.php on line 17
+[29-Nov-2020 17:43:51 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 17:43:51 America/New_York] PHP Notice:  Undefined index: Collection in /home/dtzawqxi/public_html/forms/mailer.php on line 14
+[29-Nov-2020 17:43:51 America/New_York] PHP Notice:  Undefined index: Delivery in /home/dtzawqxi/public_html/forms/mailer.php on line 15
+[29-Nov-2020 17:43:51 America/New_York] PHP Notice:  Undefined index: Dimensions in /home/dtzawqxi/public_html/forms/mailer.php on line 17
+[29-Nov-2020 17:48:33 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 17:48:33 America/New_York] PHP Notice:  Undefined index: Collection in /home/dtzawqxi/public_html/forms/mailer.php on line 14
+[29-Nov-2020 17:48:33 America/New_York] PHP Notice:  Undefined index: Delivery in /home/dtzawqxi/public_html/forms/mailer.php on line 15
+[29-Nov-2020 17:48:33 America/New_York] PHP Notice:  Undefined index: Dimensions in /home/dtzawqxi/public_html/forms/mailer.php on line 17
+[29-Nov-2020 17:49:41 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 17:49:58 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 17:55:46 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 17:56:34 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 17:57:35 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 17:57:35 America/New_York] PHP Notice:  Undefined variable: message in /home/dtzawqxi/public_html/forms/mailer.php on line 25
+[29-Nov-2020 17:58:04 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 17:58:24 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 17:58:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/dtzawqxi/public_html/forms/mailer.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dtzawqxi/public_html/forms/mailer.php on line 31
+[29-Nov-2020 17:58:36 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 17:58:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/dtzawqxi/public_html/forms/mailer.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dtzawqxi/public_html/forms/mailer.php on line 31
+[29-Nov-2020 17:58:38 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 17:58:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/dtzawqxi/public_html/forms/mailer.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dtzawqxi/public_html/forms/mailer.php on line 31
+[29-Nov-2020 17:58:38 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 17:58:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/dtzawqxi/public_html/forms/mailer.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dtzawqxi/public_html/forms/mailer.php on line 31
+[29-Nov-2020 17:58:48 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 17:59:45 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 18:00:05 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 18:00:15 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 18:00:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/dtzawqxi/public_html/forms/mailer.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/dtzawqxi/public_html/forms/mailer.php on line 31
+[29-Nov-2020 18:03:39 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 18:06:58 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 18:07:33 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 18:08:38 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 18:12:18 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 18:14:32 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[29-Nov-2020 18:16:14 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[04-Dec-2020 11:22:43 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[04-Dec-2020 11:38:52 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[04-Dec-2020 11:39:01 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[04-Dec-2020 14:55:33 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[07-Dec-2020 03:50:10 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
+[07-Dec-2020 08:25:43 America/New_York] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/dtzawqxi/public_html/forms/PHPMailerAutoload.php on line 45
